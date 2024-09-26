@@ -1,4 +1,4 @@
-Hi, I'm Swastik 👋
+# HI, I AM SWASTIK👋
 I'm a passionate beginner developer with a keen interest in web development and AI. I enjoy building projects that push my skills and creativity, and I love exploring new technologies. Here's a bit more about what I do:
 
 🚀 What I'm Working On
