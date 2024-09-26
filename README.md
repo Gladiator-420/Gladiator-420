@@ -1,7 +1,7 @@
 # HI, I AM SWASTIK👋
 I'm a passionate beginner developer with a keen interest in web development and AI. I enjoy building projects that push my skills and creativity, and I love exploring new technologies. Here's a bit more about what I do:
 
-🚀 What I'm Working On
+##🚀 What I'm Working On
 Ultrazo AI: An AI assistant that responds to typed input like a smart assistant, enhancing user interaction with real-time replies.
 Attendance Tracker Web Project: A web-based attendance tracker using HTML, CSS, and JavaScript. The project includes user login functionality, undo features, and sound effects for interactive elements.
 Rock-Paper-Scissors Game: Developed using Python's tkinter, featuring custom button colors and background handling with Pillow.
@@ -12,7 +12,7 @@ Object Detection Project: I'm exploring TensorFlow to build AI models that detec
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-🔧 Technologies I Use
+##🔧 Technologies I Use
 Languages: HTML, CSS, JavaScript, Python
 Frameworks & Libraries: TensorFlow, Tkinter, Pillow
 Tools: Git, Rainmeter, NowPlaying.dll, VS Code
@@ -24,10 +24,10 @@ Web Development: I enjoy building web apps and exploring new frameworks and libr
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-📫 Get in Touch
+##📫 Get in Touch
 Feel free to reach out if you want to discuss ideas, collaborate on projects, or just say hi! You can find me here on GitHub working on my latest creations.
-
+You can also contact me via https://x.com/Panda_DNF?t=T25BpZvAMFZPJ4actCE4tA
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Happy Coding! 😊
+##Happy Coding! 😊
