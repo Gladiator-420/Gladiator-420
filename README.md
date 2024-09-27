@@ -2,10 +2,10 @@
 I'm a passionate beginner developer with a keen interest in web development and AI. I enjoy building projects that push my skills and creativity, and I love exploring new technologies. Here's a bit more about what I do:
 
 <h2>🚀 What I'm Working On</h2>
-Ultrazo AI: An AI assistant that responds to typed input like a smart assistant, enhancing user interaction with real-time replies.
-Attendance Tracker Web Project: A web-based attendance tracker using HTML, CSS, and JavaScript. The project includes local storage functionality , undo features, and sound effects for interactive elements.
-Rock-Paper-Scissors Game: Developed using Python's tkinter, featuring custom button colors and background handling with Pillow.
-Jarvis AI Bot: A personal assistant bot that listens to voice commands and can greet me by name, using AI to respond intelligently.
+Ultrazo AI: An AI assistant that responds to typed input like a smart assistant, enhancing user interaction with real-time replies.  
+Attendance Tracker Web Project: A web-based attendance tracker using HTML, CSS, and JavaScript. The project includes local storage functionality , undo features, and sound effects for interactive elements.  
+Rock-Paper-Scissors Game: Developed using Python's tkinter, featuring custom button colors and background handling with Pillow.  
+Jarvis AI Bot: A personal assistant bot that listens to voice commands and can greet me by name, using AI to respond intelligently.  
 Object Detection Project: I'm exploring TensorFlow to build AI models that detect objects in images with probability scores.
 
 
