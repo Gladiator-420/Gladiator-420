@@ -29,9 +29,8 @@ Web Development: I enjoy building web apps and exploring new frameworks and libr
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2>📫 Get in Touch</h2>
-Feel free to reach out if you want to discuss ideas, collaborate on projects, or just say hi! You can find me here on GitHub working on my latest creations.
-You can also contact me via 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Panda_DNF)
+Feel free to reach out if you want to discuss ideas, collaborate on projects, or just say hi! You can find me here on GitHub working on my latest creations. You can also contact me via [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Panda_DNF)
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2>Happy Coding! 😊</h2>
