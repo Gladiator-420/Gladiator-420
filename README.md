@@ -16,7 +16,7 @@ Object Detection Project: I'm exploring TensorFlow to build AI models that detec
 <h2>🔧 Technologies I Use</h2>
 <h3>Languages:</h3> HTML, CSS, JavaScript, Python
 Frameworks & Libraries: TensorFlow, Tkinter, Pillow
-<h3>Tools:</h3> Git, Rainmeter, NowPlaying.dll, VS Code
+<h3>Tools:</h3> Git, VS Code
 <h3>Web Development:</h3> Building responsive and dynamic websites, working on integrating backends for login systems, animations, and interactivity.
 🌱 Learning & Interests
 <h3>Artificial Intelligence:</h3> Currently diving into object detection using TensorFlow, with plans to explore more AI-based applications.
