@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e1a,50:1a1a2e,100:0f3460&height=200&section=header&text=Hi%20I'm%20Swastik%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Learner%20%7C%20AI%20Explorer&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,70:24243e,100:00c6ff&height=240&section=header&text=Swastik%20Panda%20🚀&fontSize=46&fontColor=00fff7&fontAlignY=38&desc=AI%20Explorer%20%7C%20Full-Stack%20Dev&descAlignY=60&descSize=16&animation=fadeIn" />
 <div align="center">
   <img src="https://raw.githubusercontent.com/Gladiator-420/Gladiator-420/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
